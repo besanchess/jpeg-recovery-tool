@@ -15,6 +15,11 @@ This was originally built as part of the CS50 course, but refactored and modular
 - Creates new files when a JPEG header is found
 - Writes subsequent blocks into the current JPEG file until a new one is found
 
+## 📘 What I learned
+- How to work with binary file data in C
+- How to identify and extract JPEG file signatures
+- Modularizing and refactoring C code for clarity
+
 ## 🛠️ How to compile and run
 
 ```bash
